@@ -26,4 +26,4 @@
 
   ##
   
-![Snake animation](https://github.com/victorcaio06/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/victorcaio06/victorcaio06/blob/output/github-contribution-grid-snake.svg)
