@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **i think i'm funny**
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaio06&show_icons=true&theme=dracula&locale=en&layout=compact" alt="victorcaio06" height="100" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaio06&show_icons=true&theme=dracula&locale=en&layout=compact" alt="victorcaio06" height="300" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
