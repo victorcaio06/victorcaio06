@@ -2,6 +2,7 @@
 <h3 align="center">A backend developer from Brazil</h3>
 <br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaio06&show_icons=true&theme=radical&locale=en&layout=compact" alt="victorcaio06" /></p>
+
 - 🔭 I’m currently working at Bilíngua
 
 - 🌱 I’m currently learning **Node.js, NestJS and android**
