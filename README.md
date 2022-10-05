@@ -22,8 +22,6 @@
 
 </a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaio06&show_icons=true&theme=dracula&locale=en&layout=compact" alt="victorcaio06" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorcaio06&show_icons=true&theme=dracula&locale=en" alt="victorcaio06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorcaio06&theme=dark" alt="victorcaio06" /></p>
