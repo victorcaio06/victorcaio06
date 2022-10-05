@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Caio</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorcaio06" alt="victorcaio06" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js, NestJS and android**
 
 - 📫 How to reach me **caioaraujo.vs@gmail.com**
