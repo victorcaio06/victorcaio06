@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Bilíngua
 
-- 🌱 I’m currently learning **Node.js, NestJS and android**
+- 🌱 I’m currently learning **Node.js, NestJS and React Native**
 
 - 📫 How to reach me **caioaraujo.vs@gmail.com**
 
