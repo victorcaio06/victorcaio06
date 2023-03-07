@@ -5,7 +5,7 @@
 
 <p><img align="left" src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" height="500" width="400" /></p>
 
-<div><p>- 🔭 I’m currently working at Bilíngua</p>
+<div align="right"><p>- 🔭 I’m currently working at Bilíngua</p>
 
 <p>- 🌱 I’m currently learning **Node.js, NestJS and React Native**</p>
 
