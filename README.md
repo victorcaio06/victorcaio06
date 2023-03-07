@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Caio</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 <br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaio06&show_icons=true&theme=radical&locale=en&layout=compact" alt="victorcaio06" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaio06&show_icons=true&theme=radical&locale=en&layout=compact" alt="victorcaio06" /></p>
 
-<p><img src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" height="400" width="400" /></p>
+<p><img align="right" src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" height="500" width="400" /></p>
 
 - 🔭 I’m currently working at Bilíngua
 
