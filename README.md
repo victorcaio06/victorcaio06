@@ -3,7 +3,7 @@
 <br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaio06&show_icons=true&theme=radical&locale=en&layout=compact" alt="victorcaio06" /></p>
 
-<p><img src="https://drive.google.com/file/d/10Ep1zG2631B739yHqmLuJM5X9QvLdsM1/view?usp=share_link" /></p>
+<p><img src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" /></p>
 
 - 🔭 I’m currently working at Bilíngua
 
