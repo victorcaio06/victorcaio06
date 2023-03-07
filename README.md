@@ -9,9 +9,9 @@
 
 <p>- 🌱 I’m currently learning <strong>Node.js, NestJS and React Native</strong></p>
 
-<p>- 📫 How to reach me **caioaraujo.vs@gmail.com**</p>
+<p>- 📫 How to reach me <strong>caioaraujo.vs@gmail.com</strong></p>
 
-<p>- ⚡ Fun fact **i think i'm funny**</p></div>
+<p>- ⚡ Fun fact <strong>i think i'm funny</strong></p></div>
 
 
 <h3 align="left">Connect with me:</h3>
