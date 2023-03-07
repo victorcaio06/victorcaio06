@@ -7,7 +7,7 @@
 
 <div align="left"><p>- 🔭 I’m currently working at Bilíngua</p>
 
-<p>- 🌱 I’m currently learning **Node.js, NestJS and React Native**</p>
+<p>- 🌱 I’m currently learning <strong>Node.js, NestJS and React Native</strong></p>
 
 <p>- 📫 How to reach me **caioaraujo.vs@gmail.com**</p>
 
