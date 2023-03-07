@@ -3,7 +3,7 @@
 <br>
 
 
-<p><img align="right" src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" height="500" width="400" /></p>
+<p><img align="right" src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" height="450" width="400" /></p>
 
 <div align="left"><p>- 🔭 I’m currently working at Bilíngua</p>
 
