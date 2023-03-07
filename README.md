@@ -4,6 +4,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaio06&show_icons=true&theme=radical&locale=en&layout=compact" alt="victorcaio06" /></p>
 
 <p><img align="right" src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" height="500" width="400" /></p>
+<br>
+<br>
 
 - 🔭 I’m currently working at Bilíngua
 
