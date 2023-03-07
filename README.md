@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working at Bilíngua
+<p>- 🔭 I’m currently working at Bilíngua</p>
 
 - 🌱 I’m currently learning **Node.js, NestJS and React Native**
 
