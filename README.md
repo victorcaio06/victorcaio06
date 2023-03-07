@@ -5,13 +5,14 @@
 
 <p><img align="left" src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" height="500" width="400" /></p>
 
-- 🔭 I’m currently working at Bilíngua
+<div><p>- 🔭 I’m currently working at Bilíngua</p>
 
-- 🌱 I’m currently learning **Node.js, NestJS and React Native**
+<p>- 🌱 I’m currently learning **Node.js, NestJS and React Native**</p>
 
-- 📫 How to reach me **caioaraujo.vs@gmail.com**
+<p>- 📫 How to reach me **caioaraujo.vs@gmail.com**</p>
 
-- ⚡ Fun fact **i think i'm funny**
+<p>- ⚡ Fun fact **i think i'm funny**</p></div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
