@@ -3,10 +3,6 @@
 <br>
 
 
-<p><img align="right" src="https://github.com/victorcaio06/victorcaio06/blob/main/mario.png" height="450" width="400" /></p>
-
-
-
 <p>- 🌱 I’m currently learning <strong>Next.js, Nestjs, React, Angular and React Native</strong></p>
 
 <p>- 📫 How to reach me <strong>caioaraujo.vs@gmail.com</strong></p>
