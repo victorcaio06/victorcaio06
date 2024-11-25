@@ -7,7 +7,7 @@
 
 
 
-<p>- 🌱 I’m currently learning <strong>Node.js, NestJS and React Native</strong></p>
+<p>- 🌱 I’m currently learning <strong>Next.js, Nestjs, React, Angular and React Native</strong></p>
 
 <p>- 📫 How to reach me <strong>caioaraujo.vs@gmail.com</strong></p>
 
